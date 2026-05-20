@@ -681,3 +681,11 @@ pre > code {
 .highlight .il {
     color: #099;
 }
+
+.download-btn {
+    background: #FFC903;
+    color: black;
+    padding: 12px 20px;
+    text-decoration: none;
+    border-radius: 8px;
+}
